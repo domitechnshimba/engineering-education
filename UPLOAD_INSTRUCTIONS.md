@@ -1,4 +1,4 @@
-## How to upload an article for Section’s Engineering Education Program
+# How to upload an article for Section’s Engineering Education Program
 
 **Prerequisites:**
 
